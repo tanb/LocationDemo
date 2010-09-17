@@ -1,0 +1,267 @@
+TLocationDemo
+v7
+r0
+t306430405.366743
+cCheck dependencies
+cProcessInfoPlistFile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/Info.plist LocationDemo-Info.plist
+cCompileXIB /Users/tanB/Desktop/LocationDemo/MainWindow.xib
+cCompileXIB /Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib
+cProcessPCH /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch.gch LocationDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/main.o /Users/tanB/Desktop/LocationDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoAppDelegate.o /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoViewController.o /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo normal i386
+cGenerateDSYMFile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app.dSYM /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo
+cTouch /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004C9367250000000000000110
+t1284728613
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C872F53000000000029B1D0
+t1283927891
+s2732496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C87410500000000000001D0
+t1283932421
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C872FB1000000000029D590
+t1283927985
+s2741648
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C872FA40000000000001466
+t1283927972
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8741500000000000000AA1
+t1283932496
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C8741C10000000000735310
+t1283932609
+s7557904
+
+N/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BEDC087000000000003C8C0
+t1273872519
+s248000
+
+N/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.h
+c000000004C937A4400000000000001F5
+t1284733508
+s501
+i<UIKit/UIKit.h>
+
+N/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m
+c000000004C937A440000000000000A9C
+t1284733508
+s2716
+i"LocationDemoAppDelegate.h"
+i"LocationDemoViewController.h"
+
+N/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.h
+c000000004C93840100000000000002C1
+t1284736001
+s705
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m
+c000000004C9384010000000000000A1C
+t1284736001
+s2588
+i"LocationDemoViewController.h"
+
+N/Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib
+c000000004C9382B80000000000005B26
+t1284735672
+s23334
+
+N/Users/tanB/Desktop/LocationDemo/LocationDemo_Prefix.pch
+c000000004C937A4400000000000000C1
+t1284733508
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tanB/Desktop/LocationDemo/MainWindow.xib
+c000000004C937A440000000000004E65
+t1284733508
+s20069
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app
+t1284737605
+s238
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app.dSYM
+t1284737605
+s102
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/Info.plist
+t1284737602
+s611
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo
+t1284737605
+s24120
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemoViewController.nib
+t1284737602
+s1718
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/MainWindow.nib
+t1284737602
+s1133
+
+N/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/PkgInfo
+t1284737602
+s8
+
+N/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemo.LinkFileList
+c000000004C938A4200000000000001A3
+t1284737602
+s419
+
+N/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoAppDelegate.o
+t1284737605
+s49288
+
+N/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoViewController.o
+t1284737605
+s49056
+
+N/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/main.o
+t1284737605
+s6292
+
+N/Users/tanB/Desktop/LocationDemo/main.m
+c000000004C937A440000000000000166
+t1284733508
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch.gch
+t1284737604
+s15445200
+
+NLocationDemo-Info.plist
+c000000004C937A44000000000000038D
+t1284733508
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306430402#306430402#0(0"0(0#1#0"8658290496#0"0#
+
+CCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoAppDelegate.o /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306430404.889542
+e306430405.057696
+r1
+xCompileC
+xbuild/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoAppDelegate.o
+x/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m306430404#306430405#0(0"0(0#0#66"/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m8659452064#1994"    cd /Users/tanB/Desktop/LocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-generated-files.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-own-target-headers.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-all-target-headers.hmap -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-project-headers.hmap -F/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -I/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/include -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources/i386 -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources -include /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch -c /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoAppDelegate.m -o /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoAppDelegate.o0#
+
+CCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoViewController.o /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306430405.030901
+e306430405.129754
+r1
+xCompileC
+xbuild/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoViewController.o
+x/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m306430405#306430405#0(0"0(0#0#69"/Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m8655231680#2000"    cd /Users/tanB/Desktop/LocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-generated-files.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-own-target-headers.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-all-target-headers.hmap -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-project-headers.hmap -F/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -I/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/include -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources/i386 -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources -include /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch -c /Users/tanB/Desktop/LocationDemo/Classes/LocationDemoViewController.m -o /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemoViewController.o0#
+
+CCompileC build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/main.o /Users/tanB/Desktop/LocationDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306430404.887920
+e306430405.030797
+r1
+xCompileC
+xbuild/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/main.o
+x/Users/tanB/Desktop/LocationDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/tanB/Desktop/LocationDemo/main.m306430404#306430405#0(0"0(0#0#39"/Users/tanB/Desktop/LocationDemo/main.m8639856768#1948"    cd /Users/tanB/Desktop/LocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-generated-files.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-own-target-headers.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-all-target-headers.hmap -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-project-headers.hmap -F/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -I/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/include -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources/i386 -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources -include /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch -c /Users/tanB/Desktop/LocationDemo/main.m -o /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib
+s306430402.407664
+e306430402.982188
+r1
+xCompileXIB
+x/Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib
+lSLF07#2@41"CompileXIB LocationDemoViewController.xib306430402#306430402#0(0"0(0#0#63"/Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib8658254304#589"    cd /Users/tanB/Desktop/LocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemoViewController.nib /Users/tanB/Desktop/LocationDemo/LocationDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tanB/Desktop/LocationDemo/MainWindow.xib
+s306430402.397668
+e306430402.942467
+r1
+xCompileXIB
+x/Users/tanB/Desktop/LocationDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306430402#306430402#0(0"0(0#0#47"/Users/tanB/Desktop/LocationDemo/MainWindow.xib8639069248#557"    cd /Users/tanB/Desktop/LocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/MainWindow.nib /Users/tanB/Desktop/LocationDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app.dSYM /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo
+s306430405.346066
+e306430405.363126
+r1
+xGenerateDSYMFile
+x/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app.dSYM
+x/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/LocationDemo.app.dSYM build/Debug-iphonesimulator/LocationDemo.app/LocationDemo306430405#306430405#0(0"0(0#0#90"/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo8639834208#380"    cd /Users/tanB/Desktop/LocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo -o /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app.dSYM0#
+
+CLd /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo normal i386
+s306430405.129848
+e306430405.345978
+r1
+xLd
+x/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo
+xnormal
+xi386
+lSLF07#2@95"Link /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo306430405#306430405#0(0"0(0#0#0"8640696448#919"    cd /Users/tanB/Desktop/LocationDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -F/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -filelist /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/Objects-normal/i386/LocationDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/LocationDemo0#
+
+CProcessInfoPlistFile /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/Info.plist LocationDemo-Info.plist
+s306430402.390521
+e306430402.397581
+r1
+xProcessInfoPlistFile
+x/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/Info.plist
+xLocationDemo-Info.plist
+lSLF07#2@31"Process LocationDemo-Info.plist306430402#306430402#0(0"0(0#0#56"/Users/tanB/Desktop/LocationDemo/LocationDemo-Info.plist8657935456#476"    cd /Users/tanB/Desktop/LocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationDemo-Info.plist -genpkginfo /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch.gch LocationDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306430402.982330
+e306430404.887681
+r1
+xProcessPCH
+x/var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch.gch
+xLocationDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile LocationDemo_Prefix.pch306430402#306430404#0(0"0(0#0#56"/Users/tanB/Desktop/LocationDemo/LocationDemo_Prefix.pch8657649152#1841"    cd /Users/tanB/Desktop/LocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-generated-files.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-own-target-headers.hmap -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-all-target-headers.hmap -iquote /Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/LocationDemo-project-headers.hmap -F/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator -I/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/include -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources/i386 -I/Users/tanB/Desktop/LocationDemo/build/LocationDemo.build/Debug-iphonesimulator/LocationDemo.build/DerivedSources -c /Users/tanB/Desktop/LocationDemo/LocationDemo_Prefix.pch -o /var/folders/o2/o2ih03GYFZi0xK+1wVE9Rk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationDemo_Prefix-ezjxlgdmnnahklcrbsiovqajuann/LocationDemo_Prefix.pch.gch0#
+
+CTouch /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app
+s306430405.363210
+e306430405.366230
+r1
+xTouch
+x/Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app
+lSLF07#2@83"Touch /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app306430405#306430405#0(0"0(0#0#0"8659817856#271"    cd /Users/tanB/Desktop/LocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tanB/Desktop/LocationDemo/build/Debug-iphonesimulator/LocationDemo.app0#
+
